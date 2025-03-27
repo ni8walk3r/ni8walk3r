@@ -7,19 +7,22 @@
 
 ---
 
+#### Core Expertise  
+`$` VAPT: Web | API | Network | Android | IOS  
+`$` Review: Design | Threat Modeling 
+`$` WAF: Akamai | Cloudflare | AWS WAF  
+`$` Shift Left: SAST | SCA | Secret Detection  
+`$` Compliance: ISO27k | TPRM | DPDP  
+`$` Cloud: AWS
+
+---
+
 #### Key Achievements  
 `>_` Scaled VAPT program → 40% fewer critical risks YoY  
 `>_` Launched bug bounty → 75+ high-impact vulns resolved  
 `>_` Shift-Left automation → SAST/SCA in CI/CD pipelines  
 `>_` CloudSec → AWS→Cloudflare→Akamai (99.9% uptime)  
 `>_` ISO 27001:2022 transition + 25% faster audits  
-
----
-
-#### Toolbox  
-`$` AppSec: Burp | ZAP | Metasploit  
-`$` Cloud: AWS | Terraform | K8s  
-`$` Compliance: ISO27k | SOC2 | DPDP  
 
 ---
 
